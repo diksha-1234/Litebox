@@ -27,5 +27,5 @@ LiteBox is a lightweight web-based compression tool that allows users to upload,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/litebox.git
+git clone https://github.com/diksha-1234/litebox.git
 cd litebox
