@@ -19,7 +19,6 @@ LiteBox is a lightweight web-based compression tool that allows users to upload,
 | Frontend      | Vite + React, Tailwind CSS |
 | Backend       | Node.js + Express          |
 | Compression   | C++ (compiled with g++)    |
-| Deployment    | Local / Cloud Ready        |
 
 ---
 
